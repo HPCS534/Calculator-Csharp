@@ -1,0 +1,16 @@
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\bin\Debug\net8.0-windows\CalculatorSayson.exe
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\bin\Debug\net8.0-windows\CalculatorSayson.deps.json
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\bin\Debug\net8.0-windows\CalculatorSayson.runtimeconfig.json
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\bin\Debug\net8.0-windows\CalculatorSayson.dll
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\bin\Debug\net8.0-windows\CalculatorSayson.pdb
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\obj\Debug\net8.0-windows\CalculatorSayson.Form1.resources
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\obj\Debug\net8.0-windows\CalculatorSayson.csproj.GenerateResource.cache
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\obj\Debug\net8.0-windows\CalculatorSayson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\obj\Debug\net8.0-windows\CalculatorSayson.AssemblyInfoInputs.cache
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\obj\Debug\net8.0-windows\CalculatorSayson.AssemblyInfo.cs
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\obj\Debug\net8.0-windows\CalculatorSayson.csproj.CoreCompileInputs.cache
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\obj\Debug\net8.0-windows\CalculatorSayson.dll
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\obj\Debug\net8.0-windows\refint\CalculatorSayson.dll
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\obj\Debug\net8.0-windows\CalculatorSayson.pdb
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\obj\Debug\net8.0-windows\CalculatorSayson.genruntimeconfig.cache
+C:\Users\Maykel\Desktop\C#\CalculatorSayson\CalculatorSayson\obj\Debug\net8.0-windows\ref\CalculatorSayson.dll
